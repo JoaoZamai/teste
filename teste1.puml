@@ -1,0 +1,4 @@
+@startuml
+Alice --> Bob: Olá Bob
+Bob --> Alice: Eu finjo que não percebo, mas tudo está sendo observado. O inteligente se faz de bobo pra ver até aonde o burro de faz de inteligente
+@enduml
